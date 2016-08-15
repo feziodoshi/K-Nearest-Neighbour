@@ -1,2 +1,4 @@
 # K-Nearest-Neighbour
-KNN from scratchreferences:pythonprogramming.net
+KNN from scratch
+
+references:pythonprogramming.net
